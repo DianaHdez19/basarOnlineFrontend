@@ -1,0 +1,21 @@
+/* Botón degradado */
+.btn-gradient {
+    background: linear-gradient(45deg, #ff6ec7, #f7e9e3);
+    color: white;
+    border: none;
+    transition: background 0.3s ease;
+  }
+  
+  .btn-gradient:hover {
+    background: linear-gradient(45deg, #ff6ec7, #ffadad);
+  }
+  
+  .btn-info {
+    background-color: #17a2b8;
+    transition: background 0.3s ease;
+  }
+  
+  .btn-info:hover {
+    background-color: #138496;
+  }
+  
